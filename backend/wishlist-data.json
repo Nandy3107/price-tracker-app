@@ -1,0 +1,287 @@
+{
+  "demo-user": {
+    "userId": "demo-user",
+    "items": [
+      {
+        "id": "product-1753057444297",
+        "product": {
+          "id": "prod-1753057444297",
+          "name": "Buy LOreal Paris Revitalift 1.5% Hyaluronic Acid+1% Caffeine Eye Serum For Dark Circles   20ml  - Under Eye Creams And Serums for Women 20588628",
+          "url": "https://www.myntra.com/under-eye-creams-and-serums/loreal/loreal-paris-revitalift-15-hyaluronic-acid1-caffeine-eye-serum-for-dark-circles---20ml/20588628/buy",
+          "image_url": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/20588628/2024/3/4/da12f1f4-e9a2-48b6-9edb-1245495abdea1709549062101-LOreal-Paris-Revitalift-15-Hyaluronic-Acid1-Caffeine-Eye-Ser-1.jpg",
+          "current_price": 699,
+          "platform": "Myntra",
+          "description": "Product from Myntra"
+        },
+        "target_price": 559,
+        "added_at": "2025-07-21T00:24:04.297Z",
+        "price_history": [
+          {
+            "price": 640,
+            "recorded_at": "2025-06-21T00:24:04.297Z"
+          },
+          {
+            "price": 688,
+            "recorded_at": "2025-06-22T00:24:04.297Z"
+          },
+          {
+            "price": 662,
+            "recorded_at": "2025-06-23T00:24:04.297Z"
+          },
+          {
+            "price": 744,
+            "recorded_at": "2025-06-24T00:24:04.297Z"
+          },
+          {
+            "price": 714,
+            "recorded_at": "2025-06-25T00:24:04.297Z"
+          },
+          {
+            "price": 644,
+            "recorded_at": "2025-06-26T00:24:04.297Z"
+          },
+          {
+            "price": 763,
+            "recorded_at": "2025-06-27T00:24:04.297Z"
+          },
+          {
+            "price": 671,
+            "recorded_at": "2025-06-28T00:24:04.297Z"
+          },
+          {
+            "price": 705,
+            "recorded_at": "2025-06-29T00:24:04.297Z"
+          },
+          {
+            "price": 643,
+            "recorded_at": "2025-06-30T00:24:04.297Z"
+          },
+          {
+            "price": 639,
+            "recorded_at": "2025-07-01T00:24:04.297Z"
+          },
+          {
+            "price": 635,
+            "recorded_at": "2025-07-02T00:24:04.297Z"
+          },
+          {
+            "price": 754,
+            "recorded_at": "2025-07-03T00:24:04.297Z"
+          },
+          {
+            "price": 682,
+            "recorded_at": "2025-07-04T00:24:04.297Z"
+          },
+          {
+            "price": 699,
+            "recorded_at": "2025-07-05T00:24:04.297Z"
+          },
+          {
+            "price": 742,
+            "recorded_at": "2025-07-06T00:24:04.297Z"
+          },
+          {
+            "price": 700,
+            "recorded_at": "2025-07-07T00:24:04.297Z"
+          },
+          {
+            "price": 767,
+            "recorded_at": "2025-07-08T00:24:04.297Z"
+          },
+          {
+            "price": 711,
+            "recorded_at": "2025-07-09T00:24:04.297Z"
+          },
+          {
+            "price": 664,
+            "recorded_at": "2025-07-10T00:24:04.297Z"
+          },
+          {
+            "price": 642,
+            "recorded_at": "2025-07-11T00:24:04.297Z"
+          },
+          {
+            "price": 677,
+            "recorded_at": "2025-07-12T00:24:04.297Z"
+          },
+          {
+            "price": 645,
+            "recorded_at": "2025-07-13T00:24:04.297Z"
+          },
+          {
+            "price": 655,
+            "recorded_at": "2025-07-14T00:24:04.297Z"
+          },
+          {
+            "price": 673,
+            "recorded_at": "2025-07-15T00:24:04.297Z"
+          },
+          {
+            "price": 712,
+            "recorded_at": "2025-07-16T00:24:04.297Z"
+          },
+          {
+            "price": 664,
+            "recorded_at": "2025-07-17T00:24:04.297Z"
+          },
+          {
+            "price": 699,
+            "recorded_at": "2025-07-18T00:24:04.297Z"
+          },
+          {
+            "price": 739,
+            "recorded_at": "2025-07-19T00:24:04.297Z"
+          },
+          {
+            "price": 743,
+            "recorded_at": "2025-07-20T00:24:04.297Z"
+          },
+          {
+            "price": 680,
+            "recorded_at": "2025-07-21T00:24:04.297Z"
+          }
+        ]
+      },
+      {
+        "id": "product-1753960063942",
+        "product": {
+          "id": "prod-1753960063942",
+          "name": "GM Modular 3060 Book Multicolour",
+          "url": "https://www.amazon.in/GM-Modular-3060-Book-Multicolour/dp/B008XT42JU/ref=zg_bs_c_home-improvement_d_sccl_3/257-3624527-7387259?pd_rd_w=w648v&content-id=amzn1.sym.7f3d66f6-5df6-41bc-b3bc-9782a34ce834&pf_rd_p=7f3d66f6-5df6-41bc-b3bc-9782a34ce834&pf_rd_r=GH99XX5TWKB0JPR1GJ6W&pd_rd_wg=gNHRC&pd_rd_r=a47b5957-56ad-49b1-b185-6bc002f18238&pd_rd_i=B008XT42JU&th=1",
+          "image_url": "https://via.placeholder.com/300x300/FF9900/FFFFFF?text=Amazon+Product",
+          "current_price": 729,
+          "platform": "Amazon",
+          "description": "Product from Amazon"
+        },
+        "target_price": 583,
+        "added_at": "2025-07-31T11:07:43.942Z",
+        "price_history": [
+          {
+            "price": 777,
+            "recorded_at": "2025-07-01T11:07:43.941Z"
+          },
+          {
+            "price": 799,
+            "recorded_at": "2025-07-02T11:07:43.941Z"
+          },
+          {
+            "price": 793,
+            "recorded_at": "2025-07-03T11:07:43.941Z"
+          },
+          {
+            "price": 709,
+            "recorded_at": "2025-07-04T11:07:43.941Z"
+          },
+          {
+            "price": 669,
+            "recorded_at": "2025-07-05T11:07:43.941Z"
+          },
+          {
+            "price": 682,
+            "recorded_at": "2025-07-06T11:07:43.941Z"
+          },
+          {
+            "price": 735,
+            "recorded_at": "2025-07-07T11:07:43.941Z"
+          },
+          {
+            "price": 733,
+            "recorded_at": "2025-07-08T11:07:43.941Z"
+          },
+          {
+            "price": 789,
+            "recorded_at": "2025-07-09T11:07:43.941Z"
+          },
+          {
+            "price": 735,
+            "recorded_at": "2025-07-10T11:07:43.941Z"
+          },
+          {
+            "price": 676,
+            "recorded_at": "2025-07-11T11:07:43.941Z"
+          },
+          {
+            "price": 693,
+            "recorded_at": "2025-07-12T11:07:43.941Z"
+          },
+          {
+            "price": 744,
+            "recorded_at": "2025-07-13T11:07:43.941Z"
+          },
+          {
+            "price": 778,
+            "recorded_at": "2025-07-14T11:07:43.941Z"
+          },
+          {
+            "price": 788,
+            "recorded_at": "2025-07-15T11:07:43.941Z"
+          },
+          {
+            "price": 748,
+            "recorded_at": "2025-07-16T11:07:43.941Z"
+          },
+          {
+            "price": 779,
+            "recorded_at": "2025-07-17T11:07:43.941Z"
+          },
+          {
+            "price": 788,
+            "recorded_at": "2025-07-18T11:07:43.941Z"
+          },
+          {
+            "price": 795,
+            "recorded_at": "2025-07-19T11:07:43.941Z"
+          },
+          {
+            "price": 714,
+            "recorded_at": "2025-07-20T11:07:43.941Z"
+          },
+          {
+            "price": 678,
+            "recorded_at": "2025-07-21T11:07:43.941Z"
+          },
+          {
+            "price": 778,
+            "recorded_at": "2025-07-22T11:07:43.941Z"
+          },
+          {
+            "price": 760,
+            "recorded_at": "2025-07-23T11:07:43.941Z"
+          },
+          {
+            "price": 757,
+            "recorded_at": "2025-07-24T11:07:43.941Z"
+          },
+          {
+            "price": 708,
+            "recorded_at": "2025-07-25T11:07:43.941Z"
+          },
+          {
+            "price": 710,
+            "recorded_at": "2025-07-26T11:07:43.941Z"
+          },
+          {
+            "price": 695,
+            "recorded_at": "2025-07-27T11:07:43.941Z"
+          },
+          {
+            "price": 749,
+            "recorded_at": "2025-07-28T11:07:43.941Z"
+          },
+          {
+            "price": 785,
+            "recorded_at": "2025-07-29T11:07:43.941Z"
+          },
+          {
+            "price": 760,
+            "recorded_at": "2025-07-30T11:07:43.941Z"
+          },
+          {
+            "price": 757,
+            "recorded_at": "2025-07-31T11:07:43.941Z"
+          }
+        ]
+      }
+    ]
+  }
+}
